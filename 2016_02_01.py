@@ -4,6 +4,12 @@ for g in genes:		# Visit each item in the list
 	print(g)	# Print the item
 
 
+
+
+
+
+
+
 '''
 pw = input("Enter Password: ") 	# Ask for input
 
